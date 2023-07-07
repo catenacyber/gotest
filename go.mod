@@ -1,4 +1,4 @@
-module github.wqcom/catenacyber/gotest
+module github.com/catenacyber/gotest
 
 go 1.19
 
